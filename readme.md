@@ -7,6 +7,7 @@
 - Webpack 5
 - Babel
 - Typescript
+- React 18
 
 ## Запуск development среды
 
